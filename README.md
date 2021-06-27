@@ -1,7 +1,7 @@
 # CA3-CA1 SynapticModel
 Mathematical model for CA3-CA1 synaptic transmission.
 
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/27217350.svg)](https://doi.org/10.3390/ijms22041536)
 
 ## About
 This program allows to easily simulate the synaptic transmission which occur in glutamatergic CA3-CA1 synapses
@@ -11,19 +11,19 @@ This program allows to easily simulate the synaptic transmission which occur in 
 If you used this code in a project that is going to be published, please cite us:
 
 ```
-
+Micheli, P.; Ribeiro, R.; Giorgetti, A. A Mechanistic Model of NMDA and AMPA Receptor-Mediated Synaptic Transmission in Individual Hippocampal CA3-CA1 Synapses: A Computational Multiscale Approach. Int. J. Mol. Sci. 2021, 22, 1536. https://doi.org/10.3390/ijms22041536 
 ```
 
 If you use a reference manager that supports BibTex, use this record:
 ```
 @Article{ ,
-AUTHOR = {},
-TITLE = {},
-JOURNAL = {},
-VOLUME = {},
-YEAR = {},
-NUMBER = {},
-DOI = {}
+AUTHOR = {Micheli P., Ribeiro R., Giorgetti A.},
+TITLE = {A Mechanistic Model of NMDA and AMPA Receptor-Mediated Synaptic Transmission in Individual Hippocampal CA3-CA1 Synapses: A Computational Multiscale Approach},
+JOURNAL = {International Journal of Molecular Sciences},
+VOLUME = {22},
+YEAR = {2021},
+ISSUE = {4},
+DOI = {10.3390/ijms22041536}
 }
 ```
 
