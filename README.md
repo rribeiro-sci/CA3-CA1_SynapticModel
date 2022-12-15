@@ -1,7 +1,11 @@
 # CA3-CA1 SynapticModel
 Mathematical model for CA3-CA1 synaptic transmission.
 
-[![DOI](https://zenodo.org/badge/27217350.svg)](https://doi.org/10.3390/ijms22041536)
+[![DOI](https://zenodo.org/badge/330646789.svg)](https://zenodo.org/badge/latestdoi/330646789)
+![GitHub](https://img.shields.io/github/license/rribeiro-sci/CA3-CA1_SynapticModel)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/rribeiro-sci/CA3-CA1_SynapticModel)
+
+
 
 ## About
 This program allows to easily simulate the synaptic transmission which occur in glutamatergic CA3-CA1 synapses
